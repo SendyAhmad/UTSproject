@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#6200EE</color> <!-- Ungu -->
+    <color name="primary_light">#BB86FC</color> <!-- Ungu Muda -->
+    <color name="primary_dark">#3700B3</color> <!-- Ungu Tua -->
+    <color name="accent">#03DAC5</color> <!-- Teal -->
+    <color name="red">#FF0000</color> <!-- Merah -->
+    <color name="green">#4CAF50</color> <!-- Hijau -->
+    <color name="blue">#2196F3</color> <!-- Biru -->
+    <color name="yellow">#FFEB3B</color> <!-- Kuning -->
+    <color name="orange">#FF9800</color> <!-- Oranye -->
+    <color name="grey">#9E9E9E</color> <!-- Abu-Abu -->
+    <color name="light_grey">#F5F5F5</color> <!-- Abu-Abu Muda -->
+    <color name="dark_grey">#616161</color> <!-- Abu-Abu Tua -->
+    <color name="pink">#E91E63</color> <!-- Merah Jambu -->
+</resources>
